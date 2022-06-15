@@ -1,2 +1,1 @@
-# Maximum-Depth-of-Binary-Tree
-Tree
+https://leetcode.com/problems/maximum-depth-of-binary-tree
